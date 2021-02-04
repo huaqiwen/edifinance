@@ -1,0 +1,7 @@
+github "Alamofire/Alamofire" "4.7.2"
+github "LowKostKustomz/StatusAlert" "0.10.1"
+github "SVProgressHUD/SVProgressHUD" "2.2.5"
+github "danielgindi/Charts" "v3.1.1"
+github "eggswift/pull-to-refresh" "2.7"
+github "realm/realm-cocoa" "v3.5.0"
+github "thii/FontAwesome.swift" "1.3.2"
